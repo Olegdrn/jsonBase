@@ -3,6 +3,7 @@
     "id_product": 123,
     "product_name": "Пуховик",
     "price": 12000
+    "img": "image/product_line/image_card_1.jpg"
   },
   {
     "id_product": 456,
