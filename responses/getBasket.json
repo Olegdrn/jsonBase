@@ -1,17 +1,19 @@
 {
-  "amount": 46600,
+  "amount": 18000,
   "countGoods": 2,
   "contents": [
     {
       "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
+      "product_name": "Пуховик",
+      "price": 12000,
+      "img": "image/product_line/image_card_1.jpg",
       "quantity": 1
     },
     {
       "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
+      "product_name": "Рубашка",
+      "price": 6000,
+      "img": "image/catalog/2man.png",
       "quantity": 1
     }
   ]
