@@ -2,12 +2,13 @@
   {
     "id_product": 123,
     "product_name": "Пуховик",
-    "price": 12000
+    "price": 12000,
     "img": "image/product_line/image_card_1.jpg"
   },
   {
     "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
+    "product_name": "Рубашка",
+    "price": 6000,
+    "img": "image/catalog/2man.png"
   }
 ]
