@@ -7,7 +7,7 @@
   },
   {
     "id_product": 456,
-    "product_name": "Рубашка",
+    "product_name": "Пуховик",
     "price": 6000,
     "img": "https://modde.ru/wa-data/public/shop/products/91/15/1591/images/6465/6465.970.jpeg"
   },
@@ -15,7 +15,7 @@
     "id_product": 123,
     "product_name": "Пуловер",
     "price": 12000,
-    "img": "image/product_line/image_card_1.jpg"
+    "img": "image/catalog/fourth_img.jpg"
   },
   {
     "id_product": 456,
