@@ -4,44 +4,44 @@
   "contents": [
     {
       "id_product": 123,
-      "product_name": "Пуховик",
+      "product_name": "Рубашка",
       "price": 12000,
-      "img": "image/product_line/image_card_1.jpg",
+      "img": "image/catalog/sixth_img.jpg",
       "quantity": 1
     },
     {
       "id_product": 456,
-      "product_name": "Рубашка",
+      "product_name": "Пуховик",
       "price": 6000,
       "img": "https://modde.ru/wa-data/public/shop/products/91/15/1591/images/6465/6465.970.jpeg",
       "quantity": 1
     },
         {
       "id_product": 123,
-      "product_name": "Пуховик",
+      "product_name": "Пуловер",
       "price": 12000,
-      "img": "image/product_line/image_card_1.jpg",
+      "img": "image/catalog/fourth_img.jpg",
       "quantity": 1
     },
     {
       "id_product": 456,
-      "product_name": "Рубашка",
+      "product_name": "Худи",
       "price": 6000,
-      "img": "image/catalog/2man.png",
+      "img": "image/product_line/image_card_3.jpg",
       "quantity": 1
     },
         {
       "id_product": 123,
-      "product_name": "Пуховик",
+      "product_name": "Пиджак",
       "price": 12000,
-      "img": "image/product_line/image_card_1.jpg",
+      "img": "image/product_line/image_card_5.jpg",
       "quantity": 1
     },
     {
       "id_product": 456,
-      "product_name": "Рубашка",
+      "product_name": "Брюки",
       "price": 6000,
-      "img": "image/catalog/2man.png",
+      "img": "image/product_line/image_card_4.jpg",
       "quantity": 1
     }
   ]
