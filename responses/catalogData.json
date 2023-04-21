@@ -1,9 +1,9 @@
 [
   {
     "id_product": 123,
-    "product_name": "Пуховик",
+    "product_name": "Рубашка",
     "price": 12000,
-    "img": "image/product_line/image_card_1.jpg"
+    "img": "image/catalog/sixth_img.jpg"
   },
   {
     "id_product": 456,
@@ -21,18 +21,18 @@
     "id_product": 456,
     "product_name": "Худи",
     "price": 6000,
-    "img": "image/catalog/2man.png"
+    "img": "image/product_line/image_card_3.jpg"
   },
     {
     "id_product": 123,
     "product_name": "Пиджак",
     "price": 12000,
-    "img": "image/product_line/image_card_1.jpg"
+    "img": "image/product_line/image_card_5.jpg"
   },
   {
     "id_product": 456,
     "product_name": "Брюки",
     "price": 6000,
-    "img": "image/catalog/2man.png"
+    "img": "image/product_line/image_card_4.jpg"
   }
 ]
