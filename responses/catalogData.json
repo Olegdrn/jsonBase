@@ -1,37 +1,37 @@
 [
   {
     "id_product": 123,
-    "product_name": "Рубашка",
+    "product_name": "Shirt",
     "price": 12000,
     "img": "image/catalog/sixth_img.jpg"
   },
   {
     "id_product": 456,
-    "product_name": "Пуховик",
+    "product_name": "Jacket",
     "price": 6000,
     "img": "https://modde.ru/wa-data/public/shop/products/91/15/1591/images/6465/6465.970.jpeg"
   },
     {
     "id_product": 123,
-    "product_name": "Пуловер",
+    "product_name": "Pullover",
     "price": 12000,
     "img": "image/catalog/fourth_img.jpg"
   },
   {
     "id_product": 456,
-    "product_name": "Худи",
+    "product_name": "Hoodie",
     "price": 6000,
     "img": "image/product_line/image_card_3.jpg"
   },
     {
     "id_product": 123,
-    "product_name": "Пиджак",
+    "product_name": "Blazer",
     "price": 12000,
     "img": "image/product_line/image_card_5.jpg"
   },
   {
     "id_product": 456,
-    "product_name": "Брюки",
+    "product_name": "Trousers",
     "price": 6000,
     "img": "image/product_line/image_card_4.jpg"
   }
